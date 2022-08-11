@@ -1,0 +1,10 @@
+1) Prim (3.33 pontos)
+Formato do grafo: uma aresta (não direcionada) por linha, todos inteiros
+nodo1 nodo2 distancia (três números)
+
+2) Dijkstra (3.33 pontos)
+Formato cabeçalho: primeira linha origem e destino (dois números)
+Formato do grafo: uma aresta (direcionada) por linha, todos inteiros
+nodo_origem nodo_destino distancia (três números)
+
+Disciplina de CAD para Sistemas Digitais
